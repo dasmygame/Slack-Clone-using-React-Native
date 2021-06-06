@@ -27,6 +27,3 @@ npx pod-install
 npx react-native run-ios
 ```
 
-## Expo app
-
-https://github.com/GetStream/slack-clone-expo
