@@ -6,9 +6,6 @@
 
 More screenshots [here](https://github.com/GetStream/slack-clone-react-native/tree/master/screenshots/v2)
 
-## Tutorial
-
-https://dev.to/vishalnarkhede/how-to-build-slack-clone-with-react-native-part-2-g5
 
 ## How to run project
 
