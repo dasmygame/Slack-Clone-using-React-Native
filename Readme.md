@@ -4,7 +4,7 @@
 <img src="https://stream-blog-v2.imgix.net/blog/wp-content/uploads/80af4fbb74a77a4465679f6118af7427/image.png" alt="IMAGE ALT TEXT HERE"/>
 </div>
 
-More screenshots [here](https://github.com/dasmygame/Slack-Clone-using-React-Native/tree/master/screenshots/v2)
+More screenshots [here](https://github.com/dasmygame/Slack-Clone-using-React-Native/screenshots/v2)
 
 
 ## How to run project
