@@ -4,14 +4,14 @@
 <img src="https://stream-blog-v2.imgix.net/blog/wp-content/uploads/80af4fbb74a77a4465679f6118af7427/image.png" alt="IMAGE ALT TEXT HERE"/>
 </div>
 
-More screenshots [here](https://github.com/GetStream/slack-clone-react-native/tree/master/screenshots/v2)
+More screenshots [here](https://github.com/dasmygame/Slack-Clone-using-React-Native/tree/master/screenshots/v2)
 
 
 ## How to run project
 
 ```sh
-git clone git@github.com:GetStream/slack-clone-react-native.git
-cd slack-clone-react-native
+git clone git@github.com:dasmygame/Slack-Clone-using-React-Native.git
+cd Slack-Clone-using-React-Native
 
 # Install npm dependencies
 yarn
